@@ -260,4 +260,3 @@ If you want to contact me, please do so over discord (What42Pizza#0283).
 - Plastanium Compressors now take 2 titanium, 2 plastic, and 0 water (because there is no way to completely remove liquid inputs for existing blocks)
 - Phase Weavers now take 1 Plastanium + 3 Thorium
 
-Last updated 8/21/22
