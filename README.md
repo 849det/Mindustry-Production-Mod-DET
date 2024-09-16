@@ -13,7 +13,7 @@ If you want to contact me, please do so over github (849det).
 ## Known Issues:
 
 - Sometimes when you import this mod on android, minudstry crashes. Re-openning mindustry will fix the issue and the mod will be loaded.
-- iInfinite oil bug
+- Infinite oil bug
 - Petroleum Generator cant identify, destroy, feed, and generate power.
 - Plastic Fighter Factory missing.
 - Flying units not yet made from aluminum instead of titanium.
@@ -90,14 +90,16 @@ If you want to contact me, please do so over github (849det).
 -Container Filler:
   -Input: 5 Liquid + 2 Plastic
   -Output: 1 Plastic Container of Liquid
-      -Input: 10 liquid + 3 Steel
-      -Output: 1 Steel Container of Liquid
+  
+  -Input: 10 liquid + 3 Steel
+  -Output: 1 Steel Container of Liquid
 
 - Container Emptyer:
     -Input: 1 Plastic Container of Liquid
     -Output: 5 Liquid + 2 Plastic
-      -Input: 1 Steel Container of Liquid
-      -Output: 10 Liquid + 3 Steel
+  
+    -Input: 1 Steel Container of Liquid
+    -Output: 10 Liquid + 3 Steel
   
 - Sludge Burner:
   - Input: 1 Sludge
