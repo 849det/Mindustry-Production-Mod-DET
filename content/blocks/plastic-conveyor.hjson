@@ -4,7 +4,8 @@
 	"type": "Conveyor",
 	"requirements": [
 		{"item": "plastic" , "amount": 2},
-		{"item": "titanium", "amount": 1}
+		{"item": "copper", "amount": 1},
+		{"item": "lead","amount":1}
 	],
 	"health": "3",
 	"category": "distribution",
