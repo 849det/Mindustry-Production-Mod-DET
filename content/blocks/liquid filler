@@ -5,73 +5,99 @@
 
 	"consumes": {"power": 0.25},
 		{"liquid": "water", "amount": 10},
-    {"item": "steel","amount": 3},
+   		{"item": "steel","amount": 3},
+
 	"outputItem": {"item": "water-container", "amount": "1"},
 
   "consumes": {"power": 0.25},
 		{"liquid": "cryofluid", "amount": 10},
-    {"item": "steel","amount": 3},
+   		{"item": "steel","amount": 3},
+
 	"outputItem": {"item": "cryo-container", "amount": "1"},
 
  "consumes": {"power": 0.25},
 		{"liquid": "oil", "amount": 10},
-    {"item": "steel","amount": 3},
+    		{"item": "steel","amount": 3},
+
 	"outputItem": {"item": "oil-container", "amount": "1"},
 
 "consumes": {"power": 0.25},
 		{"liquid": "petroleum", "amount": 10},
-    {"item": "steel","amount": 3},
+  		{"item": "steel","amount": 3},
+
 	"outputItem": {"item": "petroleum-container", "amount": "1"},
 
 "consumes": {"power": 0.25},
 		{"liquid": "light-oil", "amount": 10},
-    {"item": "steel","amount": 3},
+  		{"item": "steel","amount": 3},
+
 	"outputItem": {"item": "light-oil-container", "amount": "1"},
 
 "consumes": {"power": 0.25},
 		{"liquid": "heavy-oil", "amount": 10},
-    {"item": "steel","amount": 3},
+    		{"item": "steel","amount": 3},
+
 	"outputItem": {"item": "heavy-oil-container", "amount": "1"},
 
 "consumes": {"power": 0.25},
 		{"liquid": "sludge", "amount": 10},
-    {"item": "steel","amount": 3},
+    		{"item": "steel","amount": 3},
+
 	"outputItem": {"item": "sludge-container", "amount": "1"},
 
 "consumes": {"power": 0.25},
+		{"liquid": "thorium-sludge", "amount": 10},
+    		{"item": "steel","amount": 3},
+
+	"outputItem": {"item": "thorium-sludge-container", "amount": "1"},
+
+"consumes": {"power": 0.25},
+		{"liquid": "thorium-sludge", "amount": 5},
+    		{"item": "plastic","amount": 2},
+
+	"outputItem": {"item": "thorium-sludge-con-plastic", "amount": "1"},
+
+"consumes": {"power": 0.25},
 		{"liquid": "sludge", "amount": 5},
-    {"item": "aluminum","amount": 2},
-	"outputItem": {"item": "sludge-con-aluminum", "amount": "1"},
+    		{"item": "plastic","amount": 2},
+
+	"outputItem": {"item": "sludge-con-plastic", "amount": "1"},
 
 "consumes": {"power": 0.25},
 		{"liquid": "heavy-oil", "amount": 5},
-    {"item": "aluminum","amount": 2},
-	"outputItem": {"item": "heavy-oil-con-aluminum", "amount": "1"},
+    		{"item": "plastic","amount": 2},
+
+	"outputItem": {"item": "heavy-oil-con-plastic", "amount": "1"},
 
 "consumes": {"power": 0.25},
 		{"liquid": "light-oil", "amount": 5},
-    {"item": "aluminum","amount": 2},
-	"outputItem": {"item": "light-oil-con-aluminum", "amount": "1"},
+    		{"item": "plastic","amount": 2},
+
+	"outputItem": {"item": "light-oil-con-plastic", "amount": "1"},
 
 "consumes": {"power": 0.25},
 		{"liquid": "petroleum", "amount": 5},
-    {"item": "aluminum","amount": 2},
+    		{"item": "plastic","amount": 2},
+
 	"outputItem": {"item": "petroleum-con-aluminum", "amount": "1"},
 
 "consumes": {"power": 0.25},
 		{"liquid": "oil", "amount": 5},
-    {"item": "aluminum","amount": 2},
-	"outputItem": {"item": "oil-con-aluminum", "amount": "1"},
+    		{"item": "plsastic","amount": 2},
+
+	"outputItem": {"item": "oil-con-plastic", "amount": "1"},
 
 "consumes": {"power": 0.25},
 		{"liquid": "water", "amount": 5},
-    {"item": "aluminum","amount": 2},
-	"outputItem": {"item": "water-con-aluminum", "amount": "1"},
+    		{"item": "plastic","amount": 2},
+
+	"outputItem": {"item": "water-con-plastic", "amount": "1"},
 
 "consumes": {"power": 0.25},
 		{"liquid": "cryofluid", "amount": 5},
-    {"item": "aluminum","amount": 2},
-	"outputItem": {"item": "cryofluid-con-aluminum", "amount": "1"},
+    		{"item": "plastic","amount": 2},
+
+	"outputItem": {"item": "cryofluid-con-plastic", "amount": "1"},
 
 	"requirements": [
 		{"item": "copper"   , "amount": 25},
